@@ -4,6 +4,3 @@ mother
 
 more text here
 -------------------------------
-and more text
-text
-and blabla
